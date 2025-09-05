@@ -1,4 +1,4 @@
-# DOPAMINE: Simple Tool for Penetration Testing 🐬
+# DOPAMINE 🐬
 
 **DOPAMINE** is a lightweight and easy-to-use Python tool designed for penetration testing. With a focus on simplicity and core functionality, it helps security professionals identify vulnerabilities in web applications and networks, making it an ideal choice for both beginners and experienced pentesters.
 
