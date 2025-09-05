@@ -21,7 +21,7 @@ To get started with DOPAMINE, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/DOPAMINE.git
+   git clone https://github.com/miraiuhq/DOPAMINE.git
    cd DOPAMINE
    ```
 
